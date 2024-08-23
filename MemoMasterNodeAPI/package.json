@@ -1,0 +1,20 @@
+{
+  "name": "memo-master-node-api",
+  "version": "0.0.0",
+  "description": "MemoMasterNodeAPI",
+  "main": "app.js",
+  "type": "module",
+  "author": {
+    "name": ""
+  },
+  "devDependencies": {
+    "eslint": "^8.21.0",
+    "mocha": "^10.0.0",
+    "chai": "^4.3.6",
+    "chai-http": "^4.3.0",
+    "sinon": "^13.0.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  }
+}
